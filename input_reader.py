@@ -1,5 +1,6 @@
 import csv
 import sys
+import pandas as pd
 
 def read_points_from_list(points_list):
     try:
@@ -10,11 +11,9 @@ def read_points_from_list(points_list):
 
 def read_points_from_csv(csv_path):
     try:
-        with open(csv_path, 'r') as csvfile:
-            reader = csv.reader(csvfile)
-            next(reader)  # Skip header
-            points_completed = [int(row[1]) for row in reader]
-            return points_completed
+        df = pd.read_csv(csv_path)
+        points_completed = df.iloc[:, 1].tolist()  # Assuming the points are in the second column
+        return points_completed
     except FileNotFoundError:
         print(f"Error: File '{csv_path}' not found.")
         sys.exit(1)
