@@ -1,3 +1,6 @@
+from individualeffort import calculate_individual_effort_capacity 
+from teameffort import calculate_team_effort_capacity
+
 def main():
     print("Options:")
     print("1. Calculate Individual Effort Capacity from CSV")
@@ -10,7 +13,9 @@ def main():
         if option == "1":
             csv_file_path = input("Enter the path to the CSV file: ")
             sprint_days = int(input("Enter the number of sprint days: "))
-            calculate_individual_and_team_capacity(csv_file_path, sprint_days)
+            individualefforthours = calculate_individual_effort_capacity(csv_file_path, sprint_days)
+            print("Individualefforts =", individualefforthours)
+
         elif option == "2":
             csv_file_path = input("Enter the path to the CSV file: ")
             sprint_days = int(input("Enter the number of sprint days: "))
