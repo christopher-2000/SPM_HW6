@@ -1,0 +1,36 @@
+timestamp, commit_id, username, email, message 
+2024-02-29T20:43:54-05:00,5a848b7,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #19 from christopher-2000:fixes/main
+2024-02-29T20:42:34-05:00,78a5602,neharajeeva,rajen01@pfw.edu,fixes/main
+2024-02-29T20:37:28-05:00,c973e79,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #18 from christopher-2000:Feature-B
+2024-02-29T20:36:45-05:00,6acdf7d,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #17 from christopher-2000:fixes/FeatureB
+2024-02-29T20:36:19-05:00,e9edfe5,neharajeeva,rajen01@pfw.edu,main
+2024-02-29T20:18:39-05:00,d439525,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #16 from christopher-2000:FeatureB/Team-Effort-hour-calculation
+2024-02-29T20:17:42-05:00,34154e2,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #15 from christopher-2000:FeatureB/data-models
+2024-02-29T20:16:31-05:00,c3f2d7d,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #14 from christopher-2000:FeatureB/read-team-data
+2024-02-29T20:16:06-05:00,af7459c,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #13 from christopher-2000:FeatureB/Requirements-gathering
+2024-02-29T20:15:46-05:00,e5f0fac,neharajeeva,rajen01@pfw.edu,requirements
+2024-02-29T20:13:58-05:00,cf33305,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #11 from christopher-2000:FeatureB/Team-Effort-hour-calculation
+2024-02-29T20:13:36-05:00,3d350f8,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #10 from christopher-2000:FeatureB/Individual-Effort-hour-Calculation
+2024-02-29T20:13:04-05:00,83947d4,neharajeeva,156348434+neharajeeva@users.noreply.github.com,Merge pull request #9 from christopher-2000:FeatureB/main
+2024-02-29T20:07:04-05:00,378282b,neharajeeva,rajen01@pfw.edu,read-team-data
+2024-02-29T20:04:37-05:00,b0c9f76,neharajeeva,rajen01@pfw.edu,teameffort
+2024-02-29T20:03:30-05:00,0fea2dc,neharajeeva,rajen01@pfw.edu,individualefforts
+2024-02-29T20:01:50-05:00,3169101,neharajeeva,rajen01@pfw.edu,featureB main
+2024-02-29T19:51:25-05:00,fc325df,neharajeeva,rajen01@pfw.edu,data models
+2024-02-29T19:06:21-05:00,dacc806,Christopher,christopher.geever@gmail.com,requirements
+2024-02-29T18:49:30-05:00,d5c4f7f,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #8 from christopher-2000:Feature-A
+2024-02-29T18:47:38-05:00,b3b47ec,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #7 from christopher-2000:fixes/input_format
+2024-02-29T18:47:22-05:00,c8608c5,Christopher,christopher.geever@gmail.com,fixes
+2024-02-29T18:42:16-05:00,5711f3d,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #6 from christopher-2000:Velocity-logic
+2024-02-29T18:41:28-05:00,31b4826,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #5 from christopher-2000:Data-Collection
+2024-02-29T18:40:07-05:00,1dc150c,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #4 from christopher-2000:Requirements-Gathering
+2024-02-29T18:29:11-05:00,df866c6,Christopher,christopher.geever@gmail.com,cython
+2024-02-29T18:26:34-05:00,5ea4cfd,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #3 from christopher-2000/Velocity-main
+2024-02-29T18:26:08-05:00,d4ab661,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #2 from christopher-2000:velocity-calculator
+2024-02-29T18:25:38-05:00,b7392a3,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Merge pull request #1 from christopher-2000:Velocit-logic/input_reader
+2024-02-29T18:24:46-05:00,d213659,Christopher,christopher.geever@gmail.com,main function
+2024-02-29T18:23:38-05:00,14bdd9f,Christopher,christopher.geever@gmail.com,velocity_calculator
+2024-02-29T18:21:59-05:00,8bd45ad,Christopher,christopher.geever@gmail.com,input reader
+2024-02-29T18:12:49-05:00,c1a0b0a,Christopher,christopher.geever@gmail.com,data collections
+2024-02-29T18:07:41-05:00,8c0a998,Christopher,christopher.geever@gmail.com,requirements
+2024-02-29T17:45:47-05:00,8278cd3,M G Christopher,53057545+christopher-2000@users.noreply.github.com,Initial commit
